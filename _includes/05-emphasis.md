@@ -1,6 +1,10 @@
 # _Skills_
 
-## Stuff
-- **Baking**
-- Cleaning
-- GitHub
+## Soft Skills
+- **Time Management**
+- Music Appreciation
+- Gardening
+
+## Coding Skills
+1. Python
+2. JavaScript
